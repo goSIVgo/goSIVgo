@@ -136,7 +136,7 @@
 
 ---
 
-### 🎨 Design:
+### 🎨 Проектирование и дизайн:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
