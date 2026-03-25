@@ -149,7 +149,7 @@
 ### 🗺️ Геоинформационные системы:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/QGIS-✓-green?logo=qgis&logoColor=white" title="QGIS" alt="QGIS"/><br><small>QGIS</small>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MapInfo-✓-blue?style=flat" title="MapInfo" alt="MapInfo"/><br><small>MapInfo</small>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ПКК-✓-orange?style=flat" title="ПКК (Публичная кадастровая карта)" alt="ПКК"/><br><small>ПКК</small>
+  <img src="https://img.shields.io/badge/QGIS-✓-green?logo=qgis&logoColor=white" title="QGIS" alt="QGIS"/>&nbsp;
+  <img src="https://img.shields.io/badge/MapInfo-✓-blue?style=flat" title="MapInfo" alt="MapInfo"/>&nbsp;
+  <img src="https://img.shields.io/badge/ПКК-✓-orange?style=flat" title="ПКК (Публичная кадастровая карта)" alt="ПКК"/>
 </div>
