@@ -38,9 +38,7 @@
 <div>
   <strong>💻 ОС:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" title="Windows Server 2019"/>&nbsp;
-<span style="display: inline-block; background-color: #E95420; border-radius: 4px; padding: 4px;">
-  <img src="https://assets.ubuntu.com/v1/82818827-CoF_white.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>
-</span>&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" width="30" title="Debian"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
 </div>
@@ -51,14 +49,13 @@
 
 <img src="https://img.shields.io/badge/VMware-✓-blue?style=flat&logo=vmware&logoColor=white" title="VMware" alt="VMware"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white" title="Proxmox" alt="Proxmox"/>&nbsp;
+<img src="https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white" title="Proxmox" alt="Proxmox"/>
 </div>
 <br>
 <div>
   <strong>🌐 Сети:</strong><br>
-  <code>TCP/IP</code> • <code>DNS</code> • <code>DHCP</code> • <code>VPN</code><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="30" title="Wireshark"/>
-  <code>Ping</code> • <code>Traceroute</code>
+  <code>TCP/IP</code> • <code>DNS</code> • <code>DHCP</code> • <code>VPN</code> •
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" title="Wireshark" alt="Wireshark"/>&nbsp; • <code>Ping</code> • <code>Traceroute</code>
 </div>
 <br>
 
@@ -102,9 +99,9 @@
 ### 🛠 Тестирование веб-приложений:
 
 <div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -112,7 +109,7 @@
 ### 💾 Работа с данными:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 
 🗄️ <strong>Data Tables</strong> &nbsp; | &nbsp; 📊 <strong>Сводные таблицы</strong> &nbsp; | &nbsp; 📈 <strong>Дашборды</strong>
 </div>
@@ -134,7 +131,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/sublimetext/FF9800/FFFFFF" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>&nbsp;
 </div>
 
 ---
