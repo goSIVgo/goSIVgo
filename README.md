@@ -1,5 +1,7 @@
 ![Header](https://github.com/goSIVgo/goSIVgo/blob/main/assets/AQ.jpg)
-📫 Как связаться со мной: <a href="https://t.me/gosivgo"><img src="https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/assets/telegram.gif" width="40" height="40" align="middle"></a> [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/st.irinaw) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail logoColor=white)](mailto:gosivgo@gmail.com)
+📫 Как связаться со мной: <a href="https://t.me/gosivgo"><img src="https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/assets/telegram.gif" width="40" height="40" align="middle"></a>
+[![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/st.irinaw)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gosivgo@gmail.com)
 
 
 ### 👋 About Me
