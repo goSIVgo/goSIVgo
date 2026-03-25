@@ -1,4 +1,4 @@
-[! [Header](https://github.com/goSIVgo/goSIVgo/blob/main/assets/AQ.jpg)]
+[![Header](https://github.com/goSIVgo/goSIVgo/blob/main/assets/AQ.jpg)]
 
 About me
 
