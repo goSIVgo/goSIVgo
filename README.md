@@ -46,7 +46,6 @@ Skills
 
 <div>
   <strong>🌀 Виртуализация:</strong><br>
-  ### 🌀 Виртуализация:
 
 <img src="https://img.shields.io/badge/VMware-✓-blue?style=flat&logo=vmware&logoColor=white" title="VMware" alt="VMware"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-plain.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
