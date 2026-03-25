@@ -46,9 +46,9 @@ Skills
 
 <div>
   <strong>🌀 Виртуализация:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="30" title="VMware"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-plain.svg" width="30" title="VirtualBox"/>
-  <span title="Hyper-V">🪟 Hyper-V <i>(базово)</i></span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-plain.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Hyper-V (базово)" alt="Hyper-V" width="40" height="40"/>&nbsp;<small><i>(базово)</i></small>
 </div>
 <br>
 
@@ -63,13 +63,15 @@ Skills
 <div>
   <strong>🖧 Веб-серверы:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30" title="Apache"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30" title="Nginx"/> <i>(базовая настройка)</i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30" title="Nginx"/>
 </div>
 <br>
 
 <div>
   <strong>💾 Бэкапы:</strong><br>
-  🗄️ Acronis • 🗄️ Hetman Partition Recovery • <code>rsync</code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Acronis" width="30"/> Acronis &nbsp;•&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Hetman" width="30"/> Hetman Partition Recovery &nbsp;•&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="rsync" width="30"/> <code>rsync</code>
 </div>
 
 ---
