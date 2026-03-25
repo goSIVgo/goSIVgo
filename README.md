@@ -12,14 +12,16 @@ I'm passionate about software testing and currently focused on deepening my know
 ---
 
 ## 📄 My Resume
+
+### Page 1
+![Resume Page 1](https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/resume/page1.png)
+
 <table>
 <tr>
 <td>⭐</td>
 <td><b>Примечание:</b> Информация об опыте работы, курсах и сертификатах представлена на русском языке для обеспечения точного представления названий, организаций и терминологии.</td>
 </tr>
 </table>
-### Page 1
-![Resume Page 1](https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/resume/page1.png)
 
 ### Page 2  
 ![Resume Page 2](https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/resume/page2.png)
