@@ -46,8 +46,8 @@ Skills
 
 <div>
   <strong>🌀 Виртуализация:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-plain.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
+  <img src="https://ru.wikipedia.org/wiki/VMware_Workstation#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Vmware_workstation_16_icon.svg" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
+  <img src="https://ru.wikipedia.org/wiki/VirtualBox#/media/%D0%A4%D0%B0%D0%B9%D0%BB:VirtualBox_2024_Logo.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Hyper-V (базово)" alt="Hyper-V" width="40" height="40"/>&nbsp;<small><i>(базово)</i></small>
 </div>
 <br>
@@ -62,8 +62,8 @@ Skills
 
 <div>
   <strong>🖧 Веб-серверы:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30" title="Apache"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>
 </div>
 <br>
 
