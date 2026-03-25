@@ -46,9 +46,11 @@ Skills
 
 <div>
   <strong>🌀 Виртуализация:</strong><br>
-  <img src="https://ru.wikipedia.org/wiki/VMware_Workstation#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Vmware_workstation_16_icon.svg" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
-  <img src="https://ru.wikipedia.org/wiki/VirtualBox#/media/%D0%A4%D0%B0%D0%B9%D0%BB:VirtualBox_2024_Logo.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Hyper-V (базово)" alt="Hyper-V" width="40" height="40"/>&nbsp;<small><i>(базово)</i></small>
+  ### 🌀 Виртуализация:
+
+<img src="https://img.shields.io/badge/VMware-✓-blue?style=flat&logo=vmware&logoColor=white" title="VMware" alt="VMware"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-plain.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Hyper-V" alt="Hyper-V" width="40" height="40"/>
 </div>
 <br>
 
@@ -81,7 +83,7 @@ Skills
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python (скриптинг)" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP (начальный уровень)" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -89,11 +91,10 @@ Skills
 ### 📁 Тестовая документация:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp;
+  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -112,6 +113,7 @@ Skills
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+
 🗄️ <strong>Data Tables</strong> &nbsp; | &nbsp; 📊 <strong>Сводные таблицы</strong> &nbsp; | &nbsp; 📈 <strong>Дашборды</strong>
 </div>
 
