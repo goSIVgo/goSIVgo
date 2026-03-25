@@ -37,10 +37,12 @@
 
 <div>
   <strong>💻 ОС:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" title="Windows Server 2019"/>
-  <img src="https://assets.ubuntu.com/v1/82818827-CoF_white.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" style="background-color: #E95420; border-radius: 4px; padding: 4px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" width="30" title="Debian"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-plain.svg" width="30" title="CentOS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" title="Windows Server 2019"/>&nbsp;
+<span style="display: inline-block; background-color: #E95420; border-radius: 4px; padding: 4px;">
+  <img src="https://assets.ubuntu.com/v1/82818827-CoF_white.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>
+</span>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" width="30" title="Debian"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
@@ -52,7 +54,6 @@
 <img src="https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white" title="Proxmox" alt="Proxmox"/>&nbsp;
 </div>
 <br>
-
 <div>
   <strong>🌐 Сети:</strong><br>
   <code>TCP/IP</code> • <code>DNS</code> • <code>DHCP</code> • <code>VPN</code><br>
