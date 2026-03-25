@@ -2,13 +2,16 @@
 
 ### 👋 About Me
 
-<img src="https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/assets/telegram.gif" width="40" height="40" align="middle"> <a href="https://t.me/gosivgo"><b>Telegram</b></a>
+📫 Как связаться со мной: <img src="https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/assets/telegram.gif" width="40" height="40" align="middle"> <a href="https://t.me/gosivgo"><b>Telegram</b></a>[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gosivgo@gmail.com)
 
-<b>I'm a Junior QA Engineer</b> with a strong analytical background and over 10 years of experience in finance, taxation, and municipal administration.
 
-My previous roles taught me to work with large volumes of data, follow strict regulations, and pay close attention to detail — skills that are essential in quality assurance.
 
-I'm passionate about software testing and currently focused on deepening my knowledge of test automation, API testing, and Java.
+
+<b>Я начинающий QA-инженер</b> За плечами - более 10 лет работы в финансах, налоговой сфере и администрации города. Аналитика, большие данные, строгие регламенты и внимание к деталям - то, что было моей ежедневной практикой и что сегодня составляет основу качественного тестирования.
+
+Предыдущий опыт научил меня работать с большими объёмами данных, строго соблюдать регламенты и уделять внимание деталям — навыкам, которые являются основой качественного тестирования программного обеспечения.
+
+Сейчас я полностью сосредоточена на развитии в IT: углубляюсь в автоматизацию тестирования, API и Java.
 
 ---
 
