@@ -48,8 +48,8 @@ Skills
   <strong>🌀 Виртуализация:</strong><br>
 
 <img src="https://img.shields.io/badge/VMware-✓-blue?style=flat&logo=vmware&logoColor=white" title="VMware" alt="VMware"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-plain.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Hyper-V" alt="Hyper-V" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hyper-V_logo.svg/1024px-Hyper-V_logo.svg.png" title="Hyper-V (базово)" alt="Hyper-V" width="40" height="40"/><small><i>(базово)</i></small>
 </div>
 <br>
 
