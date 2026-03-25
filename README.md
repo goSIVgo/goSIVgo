@@ -49,7 +49,7 @@
 
 <img src="https://img.shields.io/badge/VMware-✓-blue?style=flat&logo=vmware&logoColor=white" title="VMware" alt="VMware"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white" title="Proxmox" alt="Proxmox"/>
+<img src="https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white" title="Proxmox" alt="Proxmox"/>&nbsp;
 </div>
 <br>
 <div>
@@ -141,16 +141,15 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" title="AutoCAD" alt="AutoCAD" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/autocad/a1253f/FFFFFF" title="AutoCAD" alt="AutoCAD" width="40" height="40"/>&nbsp;
 </div>
-<small>🖼️ Photoshop &nbsp;|&nbsp; ✏️ Illustrator &nbsp;|&nbsp; 📐 AutoCAD</small>
 
 ---
 
 ### 🗺️ Геоинформационные системы:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" title="QGIS" alt="QGIS" width="40" height="40"/><br><small>QGIS</small>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MapInfo_Professional_logo.svg/1200px-MapInfo_Professional_logo.svg.png" title="MapInfo" alt="MapInfo" width="40" height="40"/><br><small>MapInfo</small>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaflet/leaflet-original.svg" title="ПКК" alt="GIS" width="40" height="40"/><br><small>ПКК</small>
+  <img src="https://img.shields.io/badge/QGIS-✓-green?logo=qgis&logoColor=white" title="QGIS" alt="QGIS"/><br><small>QGIS</small>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MapInfo-✓-blue?style=flat" title="MapInfo" alt="MapInfo"/><br><small>MapInfo</small>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ПКК-✓-orange?style=flat" title="ПКК (Публичная кадастровая карта)" alt="ПКК"/><br><small>ПКК</small>
 </div>
