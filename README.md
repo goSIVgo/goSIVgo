@@ -1,8 +1,8 @@
-[![Header](https://github.com/goSIVgo/goSIVgo/blob/main/assets/AQ.jpg)]
+![Header](https://github.com/goSIVgo/goSIVgo/blob/main/assets/AQ.jpg)
 
 ### 👋 About Me
 
-<img src="https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/assets/happy.gif" width="30" height="30" align="middle"> 
+<img src="https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/assets/telegram.gif" width="40" height="40" align="middle"> <a href="https://t.me/gosivgo"><b>Telegram</b></a>
 <b>I'm a Junior QA Engineer</b> with a strong analytical background and over 10 years of experience in finance, taxation, and municipal administration.
 
 My previous roles taught me to work with large volumes of data, follow strict regulations, and pay close attention to detail — skills that are essential in quality assurance.
