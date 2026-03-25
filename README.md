@@ -1,13 +1,10 @@
 ![Header](https://github.com/goSIVgo/goSIVgo/blob/main/assets/AQ.jpg)
+📫 Как связаться со мной: <a href="https://t.me/gosivgo"><img src="https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/assets/telegram.gif" width="40" height="40" align="middle"></a> [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/st.irinaw) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail logoColor=white)](mailto:gosivgo@gmail.com)
+
 
 ### 👋 About Me
 
-📫 Как связаться со мной: <img src="https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/assets/telegram.gif" width="40" height="40" align="middle"> <a href="https://t.me/gosivgo"><b>Telegram</b></a>[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gosivgo@gmail.com)
-
-
-
-
-<b>Я начинающий QA-инженер</b> За плечами - более 10 лет работы в финансах, налоговой сфере и администрации города. Аналитика, большие данные, строгие регламенты и внимание к деталям - то, что было моей ежедневной практикой и что сегодня составляет основу качественного тестирования.
+<b>Я начинающий QA-инженер</b> за плечами - более 10 лет работы в финансах, налоговой сфере и администрации города. Аналитика, большие данные, строгие регламенты и внимание к деталям - то, что было моей ежедневной практикой и что сегодня составляет основу качественного тестирования.
 
 Предыдущий опыт научил меня работать с большими объёмами данных, строго соблюдать регламенты и уделять внимание деталям — навыкам, которые являются основой качественного тестирования программного обеспечения.
 
