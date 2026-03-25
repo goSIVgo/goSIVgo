@@ -31,14 +31,14 @@
 
 ---
 
-Skills
+###  👨‍💻 Skills
 
 ### 🖥️ Administration
 
 <div>
-  <strong>🪟 ОС:</strong><br>
+  <strong>💻 ОС:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" title="Windows Server 2019"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30" title="Ubuntu"/>
+  <img src="https://assets.ubuntu.com/v1/82818827-CoF_white.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" style="background-color: #E95420; border-radius: 4px; padding: 4px;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" width="30" title="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-plain.svg" width="30" title="CentOS"/>
 </div>
@@ -49,7 +49,7 @@ Skills
 
 <img src="https://img.shields.io/badge/VMware-✓-blue?style=flat&logo=vmware&logoColor=white" title="VMware" alt="VMware"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hyper-V_logo.svg/1024px-Hyper-V_logo.svg.png" title="Hyper-V (базово)" alt="Hyper-V" width="40" height="40"/><small><i>(базово)</i></small>
+<img src="https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white" title="Proxmox" alt="Proxmox"/>&nbsp;
 </div>
 <br>
 
