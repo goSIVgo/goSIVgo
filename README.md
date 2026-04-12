@@ -85,13 +85,19 @@
 
 ---
 
+### 🧩 CRM и сервисы:
+
+<div>
+<img src="https://img.shields.io/badge/amoCRM-✓-2D9CDB?style=flat" title="amoCRM" alt="amoCRM"/>
+</div>
+
+
 ### 📁 Тестовая документация:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp;
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -109,7 +115,11 @@
 ### 💾 Работа с данными:
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
 
 🗄️ <strong>Data Tables</strong> &nbsp; | &nbsp; 📊 <strong>Сводные таблицы</strong> &nbsp; | &nbsp; 📈 <strong>Дашборды</strong>
 </div>
@@ -139,8 +149,10 @@
 ### 🎨 Проектирование и дизайн:
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/InDesign-✓-FF3366?style=flat" title="Adobe InDesign" alt="InDesign"/>&nbsp;
   <img src="https://cdn.simpleicons.org/autocad/a1253f/FFFFFF" title="AutoCAD" alt="AutoCAD" width="40" height="40"/>&nbsp;
 </div>
 
