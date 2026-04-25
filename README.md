@@ -42,37 +42,36 @@
 
 ### 🖥️ Administration
 
-<!-- ИСПРАВЛЕНИЕ: Использована таблица для выравнивания -->
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="150"><strong>💻 ОС:</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" title="Windows Server 2019"/></td>
-    <td><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" width="30" title="Debian"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" title="Fedora" alt="Fedora" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><strong>💻 ОС:</strong></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" title="Windows Server 2019"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" width="30" title="Debian"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" title="Fedora" alt="Fedora" width="40" height="40"/></td>
   </tr>
   <tr>
-    <td><strong>🌀 Виртуализация:</strong></td>
-    <td><img src="https://img.shields.io/badge/VMware-✓-blue?style=flat&logo=vmware&logoColor=white" title="VMware" alt="VMware"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/></td>
-    <td><img src="https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white" title="Proxmox" alt="Proxmox"/></td>
+    <td style="border: none; padding: 5px;"><strong>🌀 Виртуализация:</strong></td>
+    <td style="border: none; padding: 5px;"><img src="https://img.shields.io/badge/VMware-✓-blue?style=flat&logo=vmware&logoColor=white" title="VMware" alt="VMware"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox&logoColor=white" title="Proxmox" alt="Proxmox"/></td>
   </tr>
   <tr>
-    <td><strong>🌐 Сети:</strong></td>
-    <td colspan="4">
+    <td style="border: none; padding: 5px;"><strong>🌐 Сети:</strong></td>
+    <td colspan="4" style="border: none; padding: 5px;">
       <code>TCP/IP</code> • <code>DNS</code> • <code>DHCP</code> • <code>VPN</code> • 
       <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" title="Wireshark" alt="Wireshark"/> • 
       <code>Ping</code> • <code>Traceroute</code>
     </td>
   </tr>
   <tr>
-    <td><strong>🖧 Веб-серверы:</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/></td>
+    <td style="border: none; padding: 5px;"><strong>🖧 Веб-серверы:</strong></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/></td>
   </tr>
   <tr>
-    <td><strong>💾 Бэкапы:</strong></td>
-    <td colspan="4">
+    <td style="border: none; padding: 5px;"><strong>💾 Бэкапы:</strong></td>
+    <td colspan="4" style="border: none; padding: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Acronis" width="30"/> Acronis &nbsp;•&nbsp; 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Hetman" width="30"/> Hetman Partition Recovery &nbsp;•&nbsp; 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="rsync" width="30"/> <code>rsync</code>
@@ -84,11 +83,11 @@
 
 ### 💻 Языки программирования:
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python (скриптинг)" alt="Python" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python (скриптинг)" alt="Python" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></td>
   </tr>
 </table>
 
@@ -96,9 +95,9 @@
 
 ### 🧩 CRM и сервисы:
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img src="https://img.shields.io/badge/amoCRM-✓-2D9CDB?style=flat" title="amoCRM" alt="amoCRM"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://img.shields.io/badge/amoCRM-✓-2D9CDB?style=flat" title="amoCRM" alt="amoCRM"/></td>
   </tr>
 </table>
 
@@ -106,11 +105,11 @@
 
 ### 📁 Тестовая документация:
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/></td>
-    <td><img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/></td>
-    <td><img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/></td>
   </tr>
 </table>
 
@@ -118,11 +117,11 @@
 
 ### 🛠 Тестирование веб-приложений:
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/></td>
-    <td><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/></td>
-    <td><img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/></td>
   </tr>
 </table>
 
@@ -130,14 +129,14 @@
 
 ### 💾 Работа с данными:
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/></td>
-    <td>🗄️ <strong>Data Tables</strong> &nbsp;|&nbsp; 📊 <strong>Сводные таблицы</strong> &nbsp;|&nbsp; 📈 <strong>Дашборды</strong></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;">🗄️ <strong>Data Tables</strong> &nbsp;|&nbsp; 📊 <strong>Сводные таблицы</strong> &nbsp;|&nbsp; 📈 <strong>Дашборды</strong></td>
   </tr>
 </table>
 
@@ -145,19 +144,19 @@
 
 ### 🛠️ Инструменты и среды разработки:
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <!-- Version Control -->
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></td>
     <!-- Terminal / Shell -->
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/></td>
     <!-- IDEs -->
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/></td>
-    <td><img src="https://cdn.simpleicons.org/sublimetext/FF9800/FFFFFF" title="Sublime Text" alt="Sublime Text" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.simpleicons.org/sublimetext/FF9800/FFFFFF" title="Sublime Text" alt="Sublime Text" width="40" height="40"/></td>
   </tr>
 </table>
 
@@ -165,13 +164,13 @@
 
 ### 🎨 Проектирование и дизайн:
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/></td>
-    <td><img src="https://img.shields.io/badge/InDesign-✓-FF3366?style=flat" title="Adobe InDesign" alt="InDesign"/></td>
-    <td><img src="https://cdn.simpleicons.org/autocad/a1253f/FFFFFF" title="AutoCAD" alt="AutoCAD" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://img.shields.io/badge/InDesign-✓-FF3366?style=flat" title="Adobe InDesign" alt="InDesign"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.simpleicons.org/autocad/a1253f/FFFFFF" title="AutoCAD" alt="AutoCAD" width="40" height="40"/></td>
   </tr>
 </table>
 
@@ -180,11 +179,11 @@
 ### 🗺️ Геоинформационные системы:
 
 <div align="center">
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img src="https://img.shields.io/badge/QGIS-✓-green?logo=qgis&logoColor=white" title="QGIS" alt="QGIS"/></td>
-    <td><img src="https://img.shields.io/badge/MapInfo-✓-blue?style=flat" title="MapInfo" alt="MapInfo"/></td>
-    <td><img src="https://img.shields.io/badge/ПКК-✓-orange?style=flat" title="ПКК (Публичная кадастровая карта)" alt="ПКК"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://img.shields.io/badge/QGIS-✓-green?logo=qgis&logoColor=white" title="QGIS" alt="QGIS"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://img.shields.io/badge/MapInfo-✓-blue?style=flat" title="MapInfo" alt="MapInfo"/></td>
+    <td style="border: none; padding: 5px;"><img src="https://img.shields.io/badge/ПКК-✓-orange?style=flat" title="ПКК (Публичная кадастровая карта)" alt="ПКК"/></td>
   </tr>
 </table>
 </div>
