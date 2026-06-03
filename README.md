@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gosivgo@gmail.com)
 
 
-### 👋 About Me
+### 👋 Немного обо мне
 
 <b>Я начинающий QA-инженер</b> за плечами - более 10 лет работы в финансах, налоговой сфере и администрации города. Аналитика, большие данные, строгие регламенты и внимание к деталям - то, что было моей ежедневной практикой и что сегодня составляет основу качественного тестирования.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 📄 My Resume
+## 📄 МОЁ РЕЗЮМЕ
 
 
 ### Page 1
@@ -26,21 +26,21 @@
 ![Resume Page 2](https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/resume/page2.png)
 
 
-<table>
+<!-- <table>
 <tr>
 <td>⭐</td>
 <td><b>Примечание:</b> Информация об опыте работы, курсах и сертификатах представлена на русском языке для обеспечения точного представления названий, организаций и терминологии.</td>
 </tr>
-</table>
+</table> -->
 
 ### Page 3  
 ![Resume Page 3](https://raw.githubusercontent.com/goSIVgo/goSIVgo/main/resume/page3.png)
 
 ---
 
-###  👨‍💻 Skills
+###  👨‍💻 Компетенции
 
-### 🖥️ Administration
+### 🖥️ Системное администрирование
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate !important; border-spacing: 0 !important; border: none !important; border-color: transparent !important; box-shadow: none !important; margin: 0; padding: 0; width: 100%;">
   <tr style="border: none !important; border-color: transparent !important;">
